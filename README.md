@@ -48,10 +48,8 @@ Font Pairing:
     * git clone https://github.com/felesss333/ProyectoFinal-Dorado.git
  * Moverse a la carpeta principal:
     * cd ProyectoFinal-Dorado
-* Instalar dependencias restantes:
+* Instalar dependencias:
     * npm install
-* Instalar dependencia de react-elastic-carousel (*):
-    * npm install --save react-elastic-carousel --force
 * Compilar:
     * npm run dev
 
