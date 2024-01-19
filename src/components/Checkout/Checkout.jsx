@@ -3,7 +3,7 @@ import Swal from 'sweetalert2';
 import CartContext from '../../context/CartContext';
 import { Form } from 'react-bootstrap';
 import { addDoc, collection } from 'firebase/firestore';
-import { db } from '../../main';
+import {db} from '../../config/Firebase'
 import { useNavigate } from 'react-router-dom';
 import 'sweetalert2/dist/sweetalert2.min.css'
 
