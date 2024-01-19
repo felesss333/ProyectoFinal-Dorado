@@ -24,7 +24,7 @@ Tienda de productos musicales (cds, dvds, boxsets) importados.
 ## Dependencias
 * **react-router-dom**
 * **sweetalert2**
-* **react-elastic-carousel 
+* **react-elastic-carousel**
 * **Bootstrap**
 * **react-icons**
 
