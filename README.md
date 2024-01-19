@@ -104,6 +104,14 @@ Font Pairing:
 
 ========================
 
+### Deploy:
+*Aclaración: Por algún motivo vercel no toma las imagenes del array, sin embargo las rutas están bien linkeadas, de hecho al usarse local y mediante el ruteo de Firebase, funciona.
+De todos modos dejo el link para observar la app:
+
+[Vercel](https://proyecto-final-dorado.vercel.app/)
+
+========================
+
 ### Datos de contacto
 
 [Linkedin](https://www.linkedin.com/in/felipe-dorado-29315232/)
