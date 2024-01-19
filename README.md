@@ -24,9 +24,7 @@ Tienda de productos musicales (cds, dvds, boxsets) importados.
 ## Dependencias
 * **react-router-dom**
 * **sweetalert2**
-* **react-elastic-carousel (*)**
-* Esta dependencia tiene problemas de compativilidad con la version react 18.2.0, la única manera de que funcion es utilizar el --force.
-
+* **react-elastic-carousel 
 * **Bootstrap**
 * **react-icons**
 
