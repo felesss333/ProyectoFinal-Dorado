@@ -45,7 +45,7 @@ Font Pairing:
 ## Instalación
 
  * Clonar repositorio:
-    * git clone [linkrepo](https://github.com/felesss333/ProyectoFinal-Dorado.git)
+    * git clone https://github.com/felesss333/ProyectoFinal-Dorado.git
  * Moverse a la carpeta principal:
     * cd ProyectoFinal-Dorado
 * Instalar dependencias restantes:
