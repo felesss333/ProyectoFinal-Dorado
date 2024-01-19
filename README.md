@@ -25,7 +25,7 @@ Tienda de productos musicales (cds, dvds, boxsets) importados.
 * **react-router-dom**
 * **sweetalert2**
 * **react-elastic-carousel (*)**
-* Esta dependencia tiene problemas de compativilidad con la version react 18.2.0, la única manera de que funcion es instalandola por fuera así se evitan errores.
+* Esta dependencia tiene problemas de compativilidad con la version react 18.2.0, la única manera de que funcion es utilizar el --force.
 
 * **Bootstrap**
 * **react-icons**
@@ -50,12 +50,10 @@ Font Pairing:
     * git clone [linkrepo](https://github.com/felesss333/ProyectoFinal-Dorado.git)
  * Moverse a la carpeta principal:
     * cd ProyectoFinal-Dorado
-* Instalar dependencia de react-elastic-carousel (*):
-    * npm install
-* Moverse a la carpeta raíz del proyecto:
-    * cd ProyectoFinal-Dorado/ProyectoFinal-Dorado
 * Instalar dependencias restantes:
     * npm install
+* Instalar dependencia de react-elastic-carousel (*):
+    * npm install --save react-elastic-carousel --force
 * Compilar:
     * npm run dev
 
