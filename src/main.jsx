@@ -2,7 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import { initializeApp } from "firebase/app";
 import { addDoc, collection, getFirestore } from "firebase/firestore";
 import { productos } from './data/asynMock.jsx';
 
@@ -17,9 +16,7 @@ const firebaseConfig = {
 
 //console.log('se conectó')
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-export const db = getFirestore(app)
+
 
 
 // productos.forEach((producto) => {
