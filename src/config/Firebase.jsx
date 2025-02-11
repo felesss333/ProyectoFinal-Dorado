@@ -8,12 +8,12 @@ import { productos }  from "../data/asynMock/";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
-  authDomain: import.meta.env.VITE_FIREBASE_AUTHDOMAIN,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECTID,
-  storageBucket: import.meta.env.VITE_FIREBASE_STORAGEBUCKET,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGINGSENDERID,
-  appId: import.meta.env.VITE_FIREBASE_APPID
+  apiKey: "AIzaSyDEzWR1f412J_y0L0z3mGMPm5VV6o_a-w0",
+  authDomain: "tiendaquebble.firebaseapp.com",
+  projectId: "tiendaquebble",
+  storageBucket: "tiendaquebble.appspot.com",
+  messagingSenderId: "575435622453",
+  appId: "1:575435622453:web:b8cdaf438c658b38f5097c"
 };
 
 console.log('config se conectó')
